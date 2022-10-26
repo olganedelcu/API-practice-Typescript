@@ -1,0 +1,22 @@
+{
+  "name": "typescript_fundamentals_git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olganedelcu/API-practice-Typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olganedelcu/API-practice-Typescript/issues"
+  },
+  "homepage": "https://github.com/olganedelcu/API-practice-Typescript#readme",
+  "description": ""
+}
